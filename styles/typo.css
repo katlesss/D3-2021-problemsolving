@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Almendra+Display&family=Pacifico&family=Scope+One&family=Ultra&family=Yeseva+One&display=swap');
+</style>
+
+body{
+  font-family: 'Pacifico';
+color:red;
+}
+h1
+{
+  font-family: 'Alfa Slab One';
+  font-size: 8em;
+  padding-left: 20px;
+  color: white;
+}
